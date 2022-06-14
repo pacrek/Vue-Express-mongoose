@@ -1,4 +1,4 @@
-# demo1vue
+# Vue-Express-mongoose
 
 ## Project setup
 ```
