@@ -5,17 +5,10 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Vue Start
 ```
-npm run serve
-```
+npm serve
 
-### Compiles and minifies for production
+## Express start
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+nodemon server
